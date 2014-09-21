@@ -28,6 +28,7 @@
 #include "bitdht/bdstddht.h"
 
 #include <stdlib.h>
+#include <unistd.h>
 
 /**********************************************************************************
  * tests of multi bdnodes all connected together.

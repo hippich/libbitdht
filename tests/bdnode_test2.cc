@@ -23,6 +23,8 @@
  *
  */
 
+#include <unistd.h>
+
 #include "bitdht/bdpeer.h"
 #include "bitdht/bdstddht.h"
 #include "bitdht/bdquery.h"
