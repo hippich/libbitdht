@@ -2,7 +2,7 @@
 CXXFLAGS = -Wall -g -I.. 
 #CXXFLAGS += -arch i386 # OSX
 
-LIBS = -L../lib -lbitdht
+LIBS = -L../lib -lbitdht -lpthread
 
 
 

@@ -1,5 +1,6 @@
 
 
+#include <unistd.h>
 #include "bitdht/bdiface.h"
 #include "bitdht/bdstddht.h"
 #include "bdhandler.h"

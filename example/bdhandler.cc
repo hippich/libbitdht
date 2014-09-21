@@ -23,6 +23,7 @@
  *
  */
 
+#include <cstring>
 
 #include <udp/udpstack.h>
 #include <udp/udpbitdht.h>
